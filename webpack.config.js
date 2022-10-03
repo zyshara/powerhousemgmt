@@ -36,8 +36,4 @@ module.exports = {
             favicon: "./src/favicon.png",
         }),
     ],
-    output: {
-        filename: "main.js",
-        path: path.resolve(__dirname, "build"),
-    },
 };
